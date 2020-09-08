@@ -4,4 +4,8 @@ ceshi-1
 guanli
 guanli--1
 123
+<<<<<<< HEAD
 this is master 
+=======
+qwe come on
+>>>>>>> qwe
